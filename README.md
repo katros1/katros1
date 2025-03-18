@@ -1,6 +1,6 @@
-# 👋 Welcome to Katros1's GitHub  
+# 👋 Welcome to My GitHub  
 
-## Hi, I'm Kairos Martial – Software Developer  
+## Hi, I'm Kairos M Martial – Software Developer  
 
 🚀 Passionate about building scalable web applications and working with modern technologies.
 
