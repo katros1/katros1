@@ -25,6 +25,17 @@
 ![Apollo GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=plastic&logo=apollo-graphql)  
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101)  
 
+### Microservices & DevOps  
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=plastic&logo=apache-kafka&logoColor=white)  
+![gRPC](https://img.shields.io/badge/gRPC-4285F4.svg?style=plastic&logo=grpc&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=plastic&logo=docker&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=plastic&logo=kubernetes&logoColor=white) 
+
+### Monitoring & Logging  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C.svg?style=plastic&logo=prometheus&logoColor=white)  
+![Grafana](https://img.shields.io/badge/Grafana-F46800.svg?style=plastic&logo=grafana&logoColor=white)  
+![ELK Stack](https://img.shields.io/badge/ELK_Stack-005571.svg?style=plastic&logo=elastic-stack&logoColor=white)
+
 ### Frontend  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white)  
